@@ -1,0 +1,6 @@
+You grab onto a low branch and pull yourself up. From above, you see:
+A river to the east
+A small cabin to the north
+A dark cave nearby
+You need to choose one of those options. 
+NOTE: use "ls" command 
