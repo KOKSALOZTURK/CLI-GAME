@@ -1,0 +1,8 @@
+You pick a direction and start walking. The trees seem to close in around you, making it harder to see. Suddenly, you hear rustling in the bushes. 
+ 
+ What do you do?
+1. Run away.
+2. Stand still and listen.
+3. Grab your knife (if found earlier)
+
+Go back to do your choice!
