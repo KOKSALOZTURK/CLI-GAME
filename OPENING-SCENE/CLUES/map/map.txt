@@ -1,4 +1,6 @@
-
+Below you can find an undetailed map of the forest. It doesn't tell you where to go but it tells you what to do. 
+Here is a simple clue: To see what you are looking for, you might need to go up in the sky. 
+Only then you can see where is where. 
                                       .....::-----:::....                                           
                                     ..-*%%%%%%###%%%%%%#=.                                          
                                  .:*%%%+-:............:=#%%#-.                                      
@@ -30,4 +32,4 @@
                                                                .#%+:%%=....                         
                                                                ..+%%%:.....                         
                                                                  .:-.....                           
-                                                                   .  .  
+                                                                   .  .
